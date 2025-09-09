@@ -433,7 +433,9 @@ h2 {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s; }
     .recent .card .card-img {
-      border-radius: 15px; }
+      border-radius: 15px; 
+      object-fit: cover;
+    }
     .recent .card h5 {
       font-size: 20px;
       color: #fff;
